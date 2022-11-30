@@ -1,0 +1,25 @@
+.card{
+
+    position: relative;
+    width: 20vw;
+    height: 40vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px #9FC131 solid;
+    border-radius: 7px;
+
+    background-color: #DBF227;
+
+}
+
+.form{
+
+    display: flex;
+    flex-direction: column;
+
+
+}

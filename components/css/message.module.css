@@ -1,0 +1,10 @@
+.message{
+
+    display: flex;
+    justify-content: center;
+    letter-spacing: 1px;
+    font-size: 0.75rem;
+
+    margin: 15px 0px;
+
+}
